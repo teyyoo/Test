@@ -14,7 +14,7 @@ vs_lib.ClientControl1.prototype = {
     },
     dispose: function() {        
         //Add custom dispose actions here
-        vs_lib.ClientControl1.callBaseMethod(this, 'dispose');
+        vs_lib.ClientControl1.callBaseMethod(this, 'dispfrfrose');
     }
 }
 vs_lib.ClientControl1.registerClass('vs_lib.ClientControl1', Sys.UI.Control);
